@@ -3,3 +3,5 @@
 Moje vybranna tema:
 Práce s formuláři a dotazníky
 
+Jmeno: Oleksandr Sakhanskyi
+Skupina: Pondeli
